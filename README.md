@@ -6,3 +6,13 @@ https://www.youtube.com/watch?v=aUW5GAFhu6s
 
 my php project web site
 https://phpgc.herokuapp.com/
+
+
+Used technologies:
+
+HTML
+CSS
+JAVASCRIPT
+PHP
+MYSQL
+phpmyadmin
